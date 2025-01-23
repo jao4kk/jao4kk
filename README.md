@@ -1,6 +1,6 @@
 # 💻 João Pedro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Pedro, tenho 23 anos e sou natural de Ilhéus. Concluí o ensino médio no CEAJ, com o Ensino superior  em Bacharel em Design. Atualmente, estou cursando Fundamentos Full Stack na OneBitCode🤘🏻. Sou apaixonado por tecnologia.
 
