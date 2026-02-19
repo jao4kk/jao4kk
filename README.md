@@ -32,7 +32,7 @@ Me chamo João Pedro, tenho 23 anos e sou natural de Ilhéus. Concluí o ensino 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
@@ -80,7 +80,7 @@ Me chamo João Pedro, tenho 23 anos e sou natural de Ilhéus. Concluí o ensino 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/> -->
 
 <br/>
 <br/>
