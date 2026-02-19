@@ -85,9 +85,9 @@ Me chamo João Pedro, tenho 23 anos e sou natural de Ilhéus. Concluí o ensino 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas -->
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -101,6 +101,6 @@ Me chamo João Pedro, tenho 23 anos e sou natural de Ilhéus. Concluí o ensino 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao4kk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> 
 
-</p>
+</p> -->
